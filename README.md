@@ -22,9 +22,12 @@ Version 0.5 - *Under Development 2020*
 http://commons.apache.org/proper/commons-csv/
 ```
 
-## Screenshoot
-
+## Screenshoots
+* Appointments View
 ![Screenshoot](https://github.com/fscovino/Fuzion-Viewer/blob/master/FV_screenshoot.png)
+
+* Therapists View
+![Screenshoot](https://github.com/fscovino/Fuzion-Viewer/blob/master/FV_screenshoot2.png)
 
 ## Author
 
