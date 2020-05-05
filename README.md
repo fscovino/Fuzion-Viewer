@@ -8,7 +8,7 @@ Version 0.5 - *Under Development 2020*
 
 ## Connectivity
 
-* Imports .CSv Files
+* Imports .CSV Files
 * DataBase (SQLite) - Pending
 
 ## Libraries Imported
@@ -28,6 +28,9 @@ http://commons.apache.org/proper/commons-csv/
 
 * Therapists View
 ![Screenshoot](https://github.com/fscovino/Fuzion-Viewer/blob/master/FV_screenshoot2.png)
+
+* UML
+![Screenshoot](https://github.com/fscovino/Fuzion-Viewer/blob/master/FV_screenshoot3.png)
 
 ## Author
 
