@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/Controller.java</file>
-            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/Appointment.java</file>
-            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/MainFrame.java</file>
-            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/DAO.java</file>
-            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/AppointmentPanel.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/models/Tester.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/Views/TherapistPanel.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/dao/DAO.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/Views/AppointmentPanel.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/controllers/Controller.java</file>
+            <file>file:/C:/Users/Francisco/Dropbox/Workspace/Netbeans/Fuzion%20Viewer/src/fv/Views/PatientPanel.java</file>
         </group>
     </open-files>
 </project-private>
