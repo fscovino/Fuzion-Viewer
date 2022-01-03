@@ -34,4 +34,4 @@ http://commons.apache.org/proper/commons-csv/
 
 ## Author
 
-**Francisco Scovino** | *Systems Analyst & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
+**Francisco Scovino** | *Web Developer & Programmer* | [franciscoscovino@gmail.com](mailto:franciscoscovino@gmail.com) | (Miramar - Florida (US))
