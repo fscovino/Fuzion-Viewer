@@ -1,5 +1,5 @@
 
-# FUZION VIEWER
+# FUZION VIEWER (Java)
 
 This application allows Fusion Web Clinic Pediatric Therapy EMR Software users to process different .csv files exported tables into a more complex view where therapists are able to follow all patients appointments as well as therapists performance. It gives the user the ability to track payments, profit, and submitted claims.
 
